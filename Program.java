@@ -20,6 +20,6 @@ class api03
 		}
 		scn.close();
 		//LOV 
-		//Love You
+		//Lov
 	}
 }
