@@ -16,8 +16,9 @@ class api03
 		int num[]=mt2(sum);
 		for(int i=0;i<sum.length-1;i++){
 			System.out.print(num[i]+" ");
-			
+	
 		}
 		scn.close();
+		//Love You
 	}
 }
